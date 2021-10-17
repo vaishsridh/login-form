@@ -46,30 +46,3 @@ label {
 .send-btn:hover {
     background-color: #0096c7;
 }
-
-/* .login-form {
-    width: 380px;
-    height: 480px;
-    border: 
-    padding: 5px;
-    position: relative;
-    margin: 6% auto;
-}
-
-.input-field {
-    display: block;
-    margin: 10px;
-    width: 80%;
-    border-radius: 30px;
-}
-
-a {
-    display: inline;
-    margin: 50px;
-}
-
-.submit-btn {
-    border-radius: 20px;
-    display: block;
-    margin: 10px auto;
-} */
